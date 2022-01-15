@@ -5,7 +5,7 @@ export class Header extends Component {
     render() {
         return (
             <div>
-                <h1>Router Introduction</h1>
+                <h1>Deploy and test project on github</h1>
                 <ul>
                     <Link to="/"><li>Home</li></Link>
                     <Link to="/about"><li>About</li></Link>
