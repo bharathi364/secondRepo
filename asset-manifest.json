@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/secondrepo/static/css/main.17b33eb2.css",
+    "main.js": "/secondrepo/static/js/main.97c61721.js",
+    "static/js/787.96f2f3ef.chunk.js": "/secondrepo/static/js/787.96f2f3ef.chunk.js",
+    "index.html": "/secondrepo/index.html",
+    "main.17b33eb2.css.map": "/secondrepo/static/css/main.17b33eb2.css.map",
+    "main.97c61721.js.map": "/secondrepo/static/js/main.97c61721.js.map",
+    "787.96f2f3ef.chunk.js.map": "/secondrepo/static/js/787.96f2f3ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17b33eb2.css",
+    "static/js/main.97c61721.js"
+  ]
+}
